@@ -1,0 +1,26 @@
+{
+    "name": "devicebot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "7b049fcd-099f-41bb-9f95-b8bd171d63b4",
+            "appPassword": "cufIBXLC190_;rysxKW75_}",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "31e96080-231e-11e9-b2f2-c1f0c8bbba74",
+            "name": "http://localhost:3979/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "appId": "7b049fcd-099f-41bb-9f95-b8bd171d63b4",
+            "appPassword": "cufIBXLC190_;rysxKW75_}",
+            "endpoint": "https://devicebot.azurewebsites.net/api/messages",
+            "name": "devicebotint",
+            "id": "119"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\babal\\Documents\\Bala\\BotTest\\devicebot.bot",
+    "overrides": null
+}

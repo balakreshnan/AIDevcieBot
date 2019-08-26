@@ -1,0 +1,41 @@
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Bot Application1.dll.config
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Bot Application1.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Bot Application1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Autofac.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Chronic.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Newtonsoft.Json.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Net.Http.Formatting.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Web.Http.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Web.Http.WebHost.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Autofac.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Newtonsoft.Json.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Net.Http.Formatting.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Web.Http.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\System.Web.Http.WebHost.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\obj\Debug\Bot Application1.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\obj\Debug\Bot Application1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\obj\Debug\BalaBot.csprojResolveAssemblyReference.cache
+C:\Users\babal\Documents\Bala\BotTest\Web\BalaBot\obj\Debug\BalaBot.csproj.CoreCompileInputs.cache

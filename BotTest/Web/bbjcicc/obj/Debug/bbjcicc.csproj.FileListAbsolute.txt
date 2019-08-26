@@ -1,0 +1,41 @@
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Bot Application1.dll.config
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Bot Application1.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Bot Application1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Autofac.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Chronic.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Builder.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Connector.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Newtonsoft.Json.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Net.Http.Formatting.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Web.Http.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Web.Http.WebHost.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Autofac.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Builder.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Connector.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Newtonsoft.Json.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Net.Http.Formatting.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Web.Http.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\System.Web.Http.WebHost.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\obj\Debug\Bot Application1.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\obj\Debug\Bot Application1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\obj\Debug\bbjcicc.csprojResolveAssemblyReference.cache
+C:\Users\babal\Documents\Bala\BotTest\Web\bbjcicc\obj\Debug\bbjcicc.csproj.CoreCompileInputs.cache

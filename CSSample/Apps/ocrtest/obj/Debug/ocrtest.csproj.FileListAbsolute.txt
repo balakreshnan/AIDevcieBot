@@ -1,0 +1,10 @@
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\bin\Debug\ocrtest.exe.config
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\bin\Debug\ocrtest.exe
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\bin\Debug\ocrtest.pdb
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\obj\Debug\ocrtest.csprojAssemblyReference.cache
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\obj\Debug\ocrtest.csproj.CoreCompileInputs.cache
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\obj\Debug\ocrtest.csproj.CopyComplete
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\obj\Debug\ocrtest.exe
+C:\Users\babal\documents\visual studio 2017\Projects\CSSample\Apps\ocrtest\obj\Debug\ocrtest.pdb

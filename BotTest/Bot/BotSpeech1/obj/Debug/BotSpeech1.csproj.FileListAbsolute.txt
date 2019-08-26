@@ -1,0 +1,7 @@
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\bin\Debug\BotSpeech1.exe.config
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\bin\Debug\BotSpeech1.exe
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\bin\Debug\BotSpeech1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\obj\Debug\BotSpeech1.exe
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\obj\Debug\BotSpeech1.pdb
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\obj\Debug\BotSpeech1.csprojResolveAssemblyReference.cache
+C:\Users\babal\Documents\Bala\BotTest\Bot\BotSpeech1\obj\Debug\BotSpeech1.csproj.CoreCompileInputs.cache

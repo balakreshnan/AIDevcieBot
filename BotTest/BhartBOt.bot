@@ -1,0 +1,26 @@
+{
+    "name": "BhartBOt",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "8d8f0c39-f22c-4fb2-96f4-5175c66497be",
+            "appPassword": "AO&rgX6q$V.${AMKl{>E$S|YkdCnG",
+            "endpoint": "https://purchatbot.azurewebsites.net/api/messages",
+            "id": "b1187d40-27ca-11e9-b4ef-8309dee36a7f",
+            "name": "https://purchatbot.azurewebsites.net/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "http://localhost:3984/api/messages",
+            "name": "bharathlocal",
+            "id": "24",
+            "appId": "8d8f0c39-f22c-4fb2-96f4-5175c66497be",
+            "appPassword": "AO&rgX6q$V.${AMKl{>E$S|YkdCnG"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\babal\\Documents\\Bala\\BotTest\\BhartBOt.bot",
+    "overrides": null
+}

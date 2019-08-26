@@ -1,0 +1,15 @@
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\bbjciccTest.exe.config
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\bbjciccTest.exe
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\bbjciccTest.pdb
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.Form1.resources
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.Properties.Resources.resources
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.csproj.GenerateResource.Cache
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.exe
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.pdb
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.csprojResolveAssemblyReference.cache
+C:\Users\babal\Documents\Bala\BotTest\Bot\bbjciccTest\obj\Debug\bbjciccTest.csproj.CoreCompileInputs.cache
