@@ -40,7 +40,7 @@ namespace MyDevice
     {
 
         DeviceManagementClient deviceManagementClient;
-        private readonly string DeviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=Bw3S/LKNLxawjlSY4cm25ILDwQQtYvSA5AR0wTl+Q70=";
+        private readonly string DeviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=xxxxx";
 
         DeviceClient deviceClient;
 
