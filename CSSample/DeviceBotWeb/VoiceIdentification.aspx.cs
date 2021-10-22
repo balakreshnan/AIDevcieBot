@@ -30,7 +30,7 @@ namespace DeviceBotWeb
         byte[] data;
         byte[] data1;
 
-        string blobconnectionstring = "DefaultEndpointsProtocol=https;AccountName=bbiotstore;AccountKey=5b9ZqSnpeKwswgoh5tvKuhYGsgzB8/Yl3wZcLyHkds+URjpp5ZYK4WQfs7niCt2jfjnHX8R5vg2Dl97u5Q2pbg==;EndpointSuffix=core.windows.net";
+        string blobconnectionstring = "DefaultEndpointsProtocol=https;AccountName=bbiotstore;AccountKey=xxxx;EndpointSuffix=core.windows.net";
 
 
         protected void Page_Load(object sender, EventArgs e)
