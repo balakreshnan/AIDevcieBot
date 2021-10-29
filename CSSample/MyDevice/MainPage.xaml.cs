@@ -445,8 +445,8 @@ namespace MyDevice
             //       hubUri,
             //       AuthenticationMethodFactory.
             //           CreateAuthenticationWithToken(deviceId, sasToken), TransportType.Amqp);
-            //String _deviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=aF5CUyJjhbVGPnIUVxFdmJAgCsWXpVsaEgwcTmRCMwQ=";
-            //String _deviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=Bw3S/LKNLxawjlSY4cm25ILDwQQtYvSA5AR0wTl+Q70=";
+            //String _deviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=xxxxxxxxxxxxxxxx=";
+            //String _deviceConnectionString = "HostName=bbdevicehub.azure-devices.net;DeviceId=device1;SharedAccessKey=xxxxxxxxxxxxxxxxx";
             
 
 
