@@ -110,7 +110,7 @@ namespace DeviceBotWeb
         {
             try
             {
-                SpeakerIdentificationServiceClient _serviceClient = new SpeakerIdentificationServiceClient("7afe1cdfee8243c0aca9fadc7d42f978");
+                SpeakerIdentificationServiceClient _serviceClient = new SpeakerIdentificationServiceClient("xxxxxxxxxxxxxxxxxxxxxxx");
                 CreateProfileResponse creationResponse = await _serviceClient.CreateProfileAsync(name.Text.ToString());
                 Profile profile = await _serviceClient.GetProfileAsync(creationResponse.ProfileId);
                 //SpeakersListPage.SpeakersList.AddSpeaker(profile);
