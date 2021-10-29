@@ -29,7 +29,7 @@ using Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training;
 
 namespace DeviceBot
 {
-    //[LuisModel("fb463f12-f18d-4e5a-944e-2fa83471c16e", "87f347ba8c724655aa4775807c7c4507")]
+    //[LuisModel("fb463f12-f18d-4e5a-944e-2fa83471c16e", "xxxxxxxxxxxxxxxxxxxxx")]
     [Serializable]
     public class device : LuisDialog<object>
     {
@@ -54,7 +54,7 @@ namespace DeviceBot
         public static string strdevice = string.Empty;
 
         static RegistryManager registryManager;
-        static string connectionString = "HostName=bbdevicehub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=aF5CUyJjhbVGPnIUVxFdmJAgCsWXpVsaEgwcTmRCMwQ=";
+        static string connectionString = "HostName=devicename.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=xxxxxxxxxxxxxxxxxxxxxxxx";
         static string iotHubD2cEndpoint = "messages/events";
         static Microsoft.ServiceBus.Messaging.EventHubClient eventHubClient;
 
@@ -351,7 +351,7 @@ namespace DeviceBot
             if (retval)
             {
                 ret = "Placing Work Order and alerting Maintanace. Estimating 2 or 3 days to Fix it. Meanwhile please try to keep the area little cooler and move it closer to AC";
-                var client = new TwilioRestClient("ACa50fd18226b72083298768eda6380d05", "5335e1759eb10d81c7eb900c155a743b");
+                var client = new TwilioRestClient("xxxxxxxxxxxxxxxxxxxx", "xxxxxxxxxxxxxxxxx");
                 client.SendMessage("+14142061344", "+16313271000", "Overheating Alert detected and Work order is created");
                 //await Task.Delay(1000);
                 client.SendMessage("+14142061344", "+12625272801", "Overheating Alert detected and Work order is created");
@@ -1155,11 +1155,11 @@ namespace DeviceBot
             string retval = string.Empty;
             string iotHubD2cEndpoint = "messages/events";
 
-            // string EhConnectionString = "Endpoint=sb://ihsuprodbyres018dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=aF5CUyJjhbVGPnIUVxFdmJAgCsWXpVsaEgwcTmRCMwQ=";
+            // string EhConnectionString = "Endpoint=sb://xxxxxx.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessxxxx";
             // string EhEntityPath = "iothub-ehub-bbdevicehu-146694-05d48bcf4c";
             // string StorageContainerName = "iotstore";
             // string StorageAccountName = "bbiotstore";
-            // string StorageAccountKey = "5b9ZqSnpeKwswgoh5tvKuhYGsgzB8/Yl3wZcLyHkds+URjpp5ZYK4WQfs7niCt2jfjnHX8R5vg2Dl97u5Q2pbg==";
+            // string StorageAccountKey = "xxxxxxxx";
 
             //String StorageConnectionString = string.Format("DefaultEndpointsProtocol=https;AccountName={0};AccountKey={1}", StorageAccountName, StorageAccountKey);
 
