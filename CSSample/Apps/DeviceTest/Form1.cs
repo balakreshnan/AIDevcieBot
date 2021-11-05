@@ -16,7 +16,7 @@ namespace DeviceTest
     {
         
         
-        static string connectionString = "HostName=bbdevicehub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=aF5CUyJjhbVGPnIUVxFdmJAgCsWXpVsaEgwcTmRCMwQ=";
+        static string connectionString = "HostName=testdevice.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=xxxxxxxxxxx";
 
         public Form1()
         {
