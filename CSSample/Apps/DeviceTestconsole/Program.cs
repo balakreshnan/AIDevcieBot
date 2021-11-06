@@ -12,7 +12,7 @@ namespace DeviceTestconsole
     {
         static void Main(string[] args)
         {
-            string connectionString = "HostName=bbdevicehub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=xxx";
+            string connectionString = "HostName=ddid.azure-devices.net;SharedAccessKeyName=name;SharedAccessKey=xxx";
 
             ServiceClient serviceClient;
 
